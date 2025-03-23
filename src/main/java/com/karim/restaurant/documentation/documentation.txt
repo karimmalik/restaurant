@@ -4,4 +4,4 @@
 3. upon set the my sql i set the port 3306, admin as root password i also create new user where user id is karim and malik is the password
 4. open mysql cli
 5. set the new database, in this case i set as: CREATE DATABASE restaurant_app;
-
+6. implement controller class, service class and repository class
